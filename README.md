@@ -1,4 +1,4 @@
-# ECE4180 Final Project
+# Mbed LPC1768 MP3 Player
 Walkman-style mp3 player created with Mbed LPC1768 microcontroller. Written in C++.
 Version: MBED OS6
 
